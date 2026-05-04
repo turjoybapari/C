@@ -17,4 +17,4 @@ To run any program:
 1. Open terminal in the program's folder
 2. Compile the code:
    ```bash
-   gcc filename.c -o filename
+   gcc filename.c -o filenam
